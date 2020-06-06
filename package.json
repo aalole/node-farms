@@ -1,0 +1,28 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "home of fresh foods, fruits and drinks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalole/node-farms.git"
+  },
+  "keywords": [
+    "Avocardo",
+    "goat-cheese",
+    "Api",
+    "routing"
+  ],
+  "author": "Mikail Rasheed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aalole/node-farms/issues"
+  },
+  "homepage": "https://github.com/aalole/node-farms#readme",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  }
+}
